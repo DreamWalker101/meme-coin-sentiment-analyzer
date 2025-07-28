@@ -1,0 +1,8 @@
+streamlit
+praw
+pandas
+transformers
+torch
+scipy
+seaborn
+matplotlib
