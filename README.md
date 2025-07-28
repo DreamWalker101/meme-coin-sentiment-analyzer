@@ -70,6 +70,4 @@ Pull requests are welcome. Feel free to open an issue to discuss major changes b
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License.
