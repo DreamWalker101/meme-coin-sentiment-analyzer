@@ -95,7 +95,7 @@ Contributions, suggestions, and PRs are welcome! If you have ideas for new featu
 ## 👨‍💻 Author
 
 **Ahmed Abbasi** – _AI & Web Developer_  
-📧 [ahmed2@on5.io](mailto:ahmed2@on5.io)  
+📧 [ahmeda@on5.io](mailto:ahmeda@on5.io)  
 🌐 [on5.io](https://on5.io)
 
 ---
